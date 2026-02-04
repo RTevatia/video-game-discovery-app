@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-src/services/api-client.ts
+/src/services/
 
 # Editor directories and files
 .vscode/*
